@@ -151,7 +151,6 @@ const Projects = () => {
                 {[
                   "React Native",
                   "TailwindCSS",
-                  "Node.js",
                   "Typescript",
                   "Express",
                   "Convex",
