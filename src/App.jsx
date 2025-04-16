@@ -8,6 +8,7 @@ import Home from './components/sections/Home'
 import About from './components/sections/About'
 import Contact from './components/sections/Contact'
 import Project from './components/sections/Projects'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -25,6 +26,7 @@ function App() {
           <About/>
           <Project/>
           <Contact/>
+          <Footer/>
         </div>
     </>
   )
