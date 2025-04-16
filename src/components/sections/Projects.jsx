@@ -91,6 +91,7 @@ const Projects = () => {
                   "ReactJS",
                   "TailwindCSS",
                   "Node.js",
+                  "Clerk",
                   "Express",
                   "MongoDB",
                   "Typescript",
@@ -152,7 +153,7 @@ const Projects = () => {
                   "React Native",
                   "TailwindCSS",
                   "Typescript",
-                  "Express",
+                  "Clerk",
                   "Convex",
                   "Expo",
                 ].map((tech, key) => (
