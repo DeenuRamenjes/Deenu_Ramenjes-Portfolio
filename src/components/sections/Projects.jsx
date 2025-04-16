@@ -31,6 +31,7 @@ const Projects = () => {
                   "CSS",
                   "ReactJS",
                   "Stripe",
+                  "TailwindCSS",
                   "Node.js",
                   "Express",
                   "MongoDB",
@@ -151,7 +152,6 @@ const Projects = () => {
               <div className="flex flex-wrap items-center gap-2 mb-4">
                 {[
                   "React Native",
-                  "TailwindCSS",
                   "Typescript",
                   "Clerk",
                   "Convex",
